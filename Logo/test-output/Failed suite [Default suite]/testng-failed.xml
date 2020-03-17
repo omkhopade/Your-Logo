@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <listeners>
+    <listener class-name="com.Logo.qa.TestUtils.listenersUtil"/>
+  </listeners>
+  <test name="Default test(failed)(failed)">
+    <classes>
+      <class name="com.Logo.qa.Test.createAccountTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="createAccountTestData" invocation-numbers="0"/>
+          <include name="tearoff"/>
+        </methods>
+      </class> <!-- com.Logo.qa.Test.createAccountTest -->
+      <class name="com.Logo.qa.Test.homePageTest">
+        <methods>
+          <include name="tearOff"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.Logo.qa.Test.homePageTest -->
+      <class name="com.Logo.qa.Test.SignInTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="createAccountTest"/>
+          <include name="tearOff"/>
+          <include name="errorValidation"/>
+        </methods>
+      </class> <!-- com.Logo.qa.Test.SignInTest -->
+      <class name="com.Logo.qa.Test.SelectDressTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearOff"/>
+        </methods>
+      </class> <!-- com.Logo.qa.Test.SelectDressTest -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

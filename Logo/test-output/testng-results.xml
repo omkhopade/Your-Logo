@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="2" ignored="0" total="13" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Default suite]" duration-ms="433547" started-at="2020-03-17T04:44:49Z" finished-at="2020-03-17T04:52:03Z">
+    <groups>
+    </groups>
+    <test name="Default test(failed)" duration-ms="433547" started-at="2020-03-17T04:44:49Z" finished-at="2020-03-17T04:52:03Z">
+      <class name="com.Logo.qa.Test.homePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="setUp" is-config="true" duration-ms="17574" started-at="2020-03-17T10:16:43Z" finished-at="2020-03-17T10:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogo()[pri:1, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="testLogo" duration-ms="312" started-at="2020-03-17T10:17:00Z" finished-at="2020-03-17T10:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogo -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="tearOff" is-config="true" duration-ms="6143" started-at="2020-03-17T10:17:01Z" finished-at="2020-03-17T10:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="setUp" is-config="true" duration-ms="20381" started-at="2020-03-17T10:19:03Z" finished-at="2020-03-17T10:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectTShirt()[pri:2, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="selectTShirt" duration-ms="2490" started-at="2020-03-17T10:19:23Z" finished-at="2020-03-17T10:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTShirt -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="tearOff" is-config="true" duration-ms="6150" started-at="2020-03-17T10:19:26Z" finished-at="2020-03-17T10:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="setUp" is-config="true" duration-ms="17465" started-at="2020-03-17T10:20:18Z" finished-at="2020-03-17T10:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="titleTest()[pri:3, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="titleTest" duration-ms="9" started-at="2020-03-17T10:20:36Z" finished-at="2020-03-17T10:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="tearOff" is-config="true" duration-ms="6186" started-at="2020-03-17T10:20:36Z" finished-at="2020-03-17T10:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="setUp" is-config="true" duration-ms="16265" started-at="2020-03-17T10:20:42Z" finished-at="2020-03-17T10:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="contactTest()[pri:4, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="contactTest" duration-ms="37" started-at="2020-03-17T10:20:58Z" finished-at="2020-03-17T10:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactTest -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="tearOff" is-config="true" duration-ms="5664" started-at="2020-03-17T10:20:58Z" finished-at="2020-03-17T10:21:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="setUp" is-config="true" duration-ms="15633" started-at="2020-03-17T10:21:04Z" finished-at="2020-03-17T10:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="emptyCartTest()[pri:5, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="emptyCartTest" duration-ms="39" started-at="2020-03-17T10:21:19Z" finished-at="2020-03-17T10:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyCartTest -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="tearOff" is-config="true" duration-ms="5650" started-at="2020-03-17T10:21:20Z" finished-at="2020-03-17T10:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="setUp" is-config="true" duration-ms="29850" started-at="2020-03-17T10:21:25Z" finished-at="2020-03-17T10:21:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signInTest()[pri:6, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="signInTest" duration-ms="2174" started-at="2020-03-17T10:21:55Z" finished-at="2020-03-17T10:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.homePageTest@475530b9]" name="tearOff" is-config="true" duration-ms="5772" started-at="2020-03-17T10:21:57Z" finished-at="2020-03-17T10:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+      </class> <!-- com.Logo.qa.Test.homePageTest -->
+      <class name="com.Logo.qa.Test.SignInTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="setUp" is-config="true" duration-ms="21333" started-at="2020-03-17T10:16:15Z" finished-at="2020-03-17T10:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitleTest()[pri:1, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="getTitleTest" duration-ms="47" started-at="2020-03-17T10:16:36Z" finished-at="2020-03-17T10:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleTest -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="tearOff" is-config="true" duration-ms="6775" started-at="2020-03-17T10:16:36Z" finished-at="2020-03-17T10:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="setUp" is-config="true" duration-ms="32412" started-at="2020-03-17T10:17:39Z" finished-at="2020-03-17T10:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="errorValidation()[pri:2, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="errorValidation" duration-ms="45422" started-at="2020-03-17T10:18:11Z" finished-at="2020-03-17T10:18:57Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id='create_account_error']/ol/li (tried for 40 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id='create_account_error']/ol/li (tried for 40 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
+	at com.Logo.qa.Pages.verifySignInpage.validationMessage(verifySignInpage.java:36)
+	at com.Logo.qa.Test.SignInTest.errorValidation(SignInTest.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.xpath: //div[@id='create_account_error']/ol/li
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'UE-PC', ip: '192.168.0.162', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.ExpectedConditions.lambda$findElement$0(ExpectedConditions.java:896)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:895)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:44)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:206)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:202)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
+	... 27 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errorValidation -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="tearOff" is-config="true" duration-ms="5707" started-at="2020-03-17T10:18:57Z" finished-at="2020-03-17T10:19:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="setUp" is-config="true" duration-ms="0" started-at="2020-03-17T10:20:11Z" finished-at="2020-03-17T10:20:11Z">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[session not created
+from tab crashed
+  (Session info: chrome=80.0.3987.132)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'UE-PC', ip: '192.168.0.162', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0107A113+1548563]
+	Ordinal0 [0x00FFDDA1+1039777]
+	Ordinal0 [0x00F7E32E+516910]
+	Ordinal0 [0x00F77113+487699]
+	Ordinal0 [0x00F76CE9+486633]
+	Ordinal0 [0x00F765E8+484840]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7D1E5+512485]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7BB0E+506638]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7A37C+500604]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F79A17+498199]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7256C+468332]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F75844+481348]
+	Ordinal0 [0x00F7F0D0+520400]
+	Ordinal0 [0x00F2C030+180272]
+	Ordinal0 [0x00F2B59D+177565]
+	Ordinal0 [0x00F295FB+169467]
+	Ordinal0 [0x00F1160A+71178]
+	Ordinal0 [0x00F12690+75408]
+	Ordinal0 [0x00F12629+75305]
+	Ordinal0 [0x010171B7+1143223]
+	GetHandleVerifier [0x01112B46+507814]
+	GetHandleVerifier [0x01112864+507076]
+	GetHandleVerifier [0x01119F47+537511]
+	GetHandleVerifier [0x01113402+510050]
+	Ordinal0 [0x0100F29C+1110684]
+	Ordinal0 [0x0101938B+1151883]
+	Ordinal0 [0x010194F3+1152243]
+	Ordinal0 [0x010183F5+1147893]
+	BaseThreadInitThunk [0x7679343D+18]
+	RtlInitializeExceptionChain [0x76F79812+99]
+	RtlInitializeExceptionChain [0x76F797E5+54]
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: session not created
+from tab crashed
+  (Session info: chrome=80.0.3987.132)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'UE-PC', ip: '192.168.0.162', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0107A113+1548563]
+	Ordinal0 [0x00FFDDA1+1039777]
+	Ordinal0 [0x00F7E32E+516910]
+	Ordinal0 [0x00F77113+487699]
+	Ordinal0 [0x00F76CE9+486633]
+	Ordinal0 [0x00F765E8+484840]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7D1E5+512485]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7BB0E+506638]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7A37C+500604]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F79A17+498199]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7256C+468332]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F75844+481348]
+	Ordinal0 [0x00F7F0D0+520400]
+	Ordinal0 [0x00F2C030+180272]
+	Ordinal0 [0x00F2B59D+177565]
+	Ordinal0 [0x00F295FB+169467]
+	Ordinal0 [0x00F1160A+71178]
+	Ordinal0 [0x00F12690+75408]
+	Ordinal0 [0x00F12629+75305]
+	Ordinal0 [0x010171B7+1143223]
+	GetHandleVerifier [0x01112B46+507814]
+	GetHandleVerifier [0x01112864+507076]
+	GetHandleVerifier [0x01119F47+537511]
+	GetHandleVerifier [0x01113402+510050]
+	Ordinal0 [0x0100F29C+1110684]
+	Ordinal0 [0x0101938B+1151883]
+	Ordinal0 [0x010194F3+1152243]
+	Ordinal0 [0x010183F5+1147893]
+	BaseThreadInitThunk [0x7679343D+18]
+	RtlInitializeExceptionChain [0x76F79812+99]
+	RtlInitializeExceptionChain [0x76F797E5+54]
+
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:122)
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+	at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:125)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:212)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at com.Logo.qa.Base.TestBase.Installation(TestBase.java:47)
+	at com.Logo.qa.Test.SignInTest.setUp(SignInTest.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:590)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="createAccountTest()[pri:3, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="createAccountTest" duration-ms="2" started-at="2020-03-17T10:20:18Z" finished-at="2020-03-17T10:20:18Z">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[session not created
+from tab crashed
+  (Session info: chrome=80.0.3987.132)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'UE-PC', ip: '192.168.0.162', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0107A113+1548563]
+	Ordinal0 [0x00FFDDA1+1039777]
+	Ordinal0 [0x00F7E32E+516910]
+	Ordinal0 [0x00F77113+487699]
+	Ordinal0 [0x00F76CE9+486633]
+	Ordinal0 [0x00F765E8+484840]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7D1E5+512485]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7BB0E+506638]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7A37C+500604]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F79A17+498199]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7256C+468332]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F75844+481348]
+	Ordinal0 [0x00F7F0D0+520400]
+	Ordinal0 [0x00F2C030+180272]
+	Ordinal0 [0x00F2B59D+177565]
+	Ordinal0 [0x00F295FB+169467]
+	Ordinal0 [0x00F1160A+71178]
+	Ordinal0 [0x00F12690+75408]
+	Ordinal0 [0x00F12629+75305]
+	Ordinal0 [0x010171B7+1143223]
+	GetHandleVerifier [0x01112B46+507814]
+	GetHandleVerifier [0x01112864+507076]
+	GetHandleVerifier [0x01119F47+537511]
+	GetHandleVerifier [0x01113402+510050]
+	Ordinal0 [0x0100F29C+1110684]
+	Ordinal0 [0x0101938B+1151883]
+	Ordinal0 [0x010194F3+1152243]
+	Ordinal0 [0x010183F5+1147893]
+	BaseThreadInitThunk [0x7679343D+18]
+	RtlInitializeExceptionChain [0x76F79812+99]
+	RtlInitializeExceptionChain [0x76F797E5+54]
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: session not created
+from tab crashed
+  (Session info: chrome=80.0.3987.132)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'UE-PC', ip: '192.168.0.162', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0107A113+1548563]
+	Ordinal0 [0x00FFDDA1+1039777]
+	Ordinal0 [0x00F7E32E+516910]
+	Ordinal0 [0x00F77113+487699]
+	Ordinal0 [0x00F76CE9+486633]
+	Ordinal0 [0x00F765E8+484840]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7D1E5+512485]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7BB0E+506638]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7A37C+500604]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F79A17+498199]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F7628B+483979]
+	Ordinal0 [0x00F75D33+482611]
+	Ordinal0 [0x00F75E75+482933]
+	Ordinal0 [0x00F759B5+481717]
+	Ordinal0 [0x00F7256C+468332]
+	Ordinal0 [0x00F75968+481640]
+	Ordinal0 [0x00F75844+481348]
+	Ordinal0 [0x00F7F0D0+520400]
+	Ordinal0 [0x00F2C030+180272]
+	Ordinal0 [0x00F2B59D+177565]
+	Ordinal0 [0x00F295FB+169467]
+	Ordinal0 [0x00F1160A+71178]
+	Ordinal0 [0x00F12690+75408]
+	Ordinal0 [0x00F12629+75305]
+	Ordinal0 [0x010171B7+1143223]
+	GetHandleVerifier [0x01112B46+507814]
+	GetHandleVerifier [0x01112864+507076]
+	GetHandleVerifier [0x01119F47+537511]
+	GetHandleVerifier [0x01113402+510050]
+	Ordinal0 [0x0100F29C+1110684]
+	Ordinal0 [0x0101938B+1151883]
+	Ordinal0 [0x010194F3+1152243]
+	Ordinal0 [0x010183F5+1147893]
+	BaseThreadInitThunk [0x7679343D+18]
+	RtlInitializeExceptionChain [0x76F79812+99]
+	RtlInitializeExceptionChain [0x76F797E5+54]
+
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$new$0(W3CHandshakeResponse.java:57)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$getResponseFunction$2(W3CHandshakeResponse.java:104)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:122)
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+	at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:125)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:212)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at com.Logo.qa.Base.TestBase.Installation(TestBase.java:47)
+	at com.Logo.qa.Test.SignInTest.setUp(SignInTest.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:590)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTest -->
+        <test-method status="SKIP" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.SignInTest@26be92ad]" name="tearOff" is-config="true" duration-ms="0" started-at="2020-03-17T10:20:18Z" finished-at="2020-03-17T10:20:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+      </class> <!-- com.Logo.qa.Test.SignInTest -->
+      <class name="com.Logo.qa.Test.SelectDressTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.SelectDressTest@1d057a39]" name="setUp" is-config="true" duration-ms="21998" started-at="2020-03-17T10:14:49Z" finished-at="2020-03-17T10:15:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selecteDressTest()[pri:0, instance:com.Logo.qa.Test.SelectDressTest@1d057a39]" name="selecteDressTest" duration-ms="23346" started-at="2020-03-17T10:15:11Z" finished-at="2020-03-17T10:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selecteDressTest -->
+        <test-method status="PASS" signature="tearOff()[pri:0, instance:com.Logo.qa.Test.SelectDressTest@1d057a39]" name="tearOff" is-config="true" duration-ms="5848" started-at="2020-03-17T10:15:35Z" finished-at="2020-03-17T10:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOff -->
+      </class> <!-- com.Logo.qa.Test.SelectDressTest -->
+      <class name="com.Logo.qa.Test.createAccountTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="setUp" is-config="true" duration-ms="20051" started-at="2020-03-17T10:15:41Z" finished-at="2020-03-17T10:16:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="geterrorMessege()[pri:1, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="geterrorMessege" duration-ms="3249" started-at="2020-03-17T10:16:01Z" finished-at="2020-03-17T10:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geterrorMessege -->
+        <test-method status="PASS" signature="tearoff()[pri:0, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="tearoff" is-config="true" duration-ms="10786" started-at="2020-03-17T10:16:04Z" finished-at="2020-03-17T10:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearoff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="setUp" is-config="true" duration-ms="19764" started-at="2020-03-17T10:17:07Z" finished-at="2020-03-17T10:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="passField()[pri:2, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="passField" duration-ms="1415" started-at="2020-03-17T10:17:27Z" finished-at="2020-03-17T10:17:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passField -->
+        <test-method status="PASS" signature="tearoff()[pri:0, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="tearoff" is-config="true" duration-ms="10662" started-at="2020-03-17T10:17:28Z" finished-at="2020-03-17T10:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearoff -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="setUp" is-config="true" duration-ms="20042" started-at="2020-03-17T10:19:34Z" finished-at="2020-03-17T10:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="createAccountTestData(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="createAccountTestData" duration-ms="6198" started-at="2020-03-17T10:19:54Z" data-provider="getTestDataAccount" finished-at="2020-03-17T10:20:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ronaldo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bindra]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[omkaeeee@1990]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[amdocs]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Khandoba Mandir, near Bhiutachi chawal]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Wadgaon Sheri]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Iowa]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[42586.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[No Additional information I want to give you sorry]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[020-95982434]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[9.895245464E9]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Wadgaon Gejs0m]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [My] but found [Login - My Store]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [My] but found [Login - My Store]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at com.Logo.qa.Test.createAccountTest.createAccountTestData(createAccountTest.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTestData -->
+        <test-method status="PASS" signature="tearoff()[pri:0, instance:com.Logo.qa.Test.createAccountTest@2b98378d]" name="tearoff" is-config="true" duration-ms="10643" started-at="2020-03-17T10:20:00Z" finished-at="2020-03-17T10:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearoff -->
+      </class> <!-- com.Logo.qa.Test.createAccountTest -->
+    </test> <!-- Default test(failed) -->
+  </suite> <!-- Failed suite [Default suite] -->
+</testng-results>
